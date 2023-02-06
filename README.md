@@ -93,5 +93,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 ## Gotchas
-Change "start": "cross-env PORT=8080 BROWSER=none react-scripts start" with "start": "cross-env PORT=8080 BROWSER=none react-scripts --openssl-legacy-provider start" in package.json
+Change "start": "cross-env PORT=8080 BROWSER=none react-scripts start" to "start": "cross-env PORT=8080 BROWSER=none react-scripts --openssl-legacy-provider start" in package.json
 
