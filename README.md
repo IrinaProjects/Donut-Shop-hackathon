@@ -1,4 +1,4 @@
-[image](https://github.com/IrinaProjects/Donut-Shop-hackathon/blob/master/Untitled.png)
+![image](https://github.com/IrinaProjects/Donut-Shop-hackathon/blob/master/Untitled.png)
 
 # A React Task
 
