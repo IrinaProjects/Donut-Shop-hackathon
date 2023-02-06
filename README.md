@@ -21,12 +21,12 @@ Payment Screen
 Preparation Screen
 Ready Screen
 
-##Design
+## Design
 
 You can find the design here
 You must use a specific font, that you can find here font
 
-##Features
+## Features
 
 When the user clicks on the “Start” button on the StartScreen, the app must switch to MenuScreen.
 It will be considered as a plus if the Donuts in the MenuScreen rotate. You can check this documentation on animating your components.
@@ -36,7 +36,7 @@ On the preparation screen the selected donut from the menu, should be rotating.
 The donut must be in preparation for 5 sec, after that the app should switch to ReadyScreen.
 When the user clicks on the “Done” button in the ReadyScreen, the app must switch to StartScreen.
 
-##Available Scripts
+## Available Scripts
 
 In the project directory, you can run:
 
